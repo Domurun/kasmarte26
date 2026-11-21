@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" role="img" aria-labelledby="title description">
+  <title id="title">KasMartē campaign image placeholder</title>
+  <desc id="description">Abstract editorial fashion illustration in warm neutral tones.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#d8c8b4"/>
+      <stop offset="1" stop-color="#726456"/>
+    </linearGradient>
+    <linearGradient id="garment" x2="0" y2="1">
+      <stop stop-color="#f4eee5"/>
+      <stop offset="1" stop-color="#b9a895"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#background)"/>
+  <circle cx="850" cy="320" r="220" fill="#eee5d9" opacity=".35"/>
+  <path d="M170 1500c40-330 220-500 430-500s390 170 430 500" fill="#342e29" opacity=".8"/>
+  <path d="M500 500c-85 75-155 215-215 500l95 250h440l95-250c-60-285-130-425-215-500l-100 80z" fill="url(#garment)"/>
+  <path d="M500 500c20 160 60 250 100 250s80-90 100-250" fill="none" stroke="#847666" stroke-width="10" opacity=".65"/>
+  <circle cx="600" cy="370" r="145" fill="#684f40"/>
+  <path d="M460 365c0-170 280-200 300-5-75-40-178-85-300 5" fill="#252321"/>
+  <text x="600" y="1390" fill="#fff" font-family="Arial,sans-serif" font-size="35" letter-spacing="12" text-anchor="middle">KASMARTE EDITORIAL</text>
+</svg>

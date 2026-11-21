@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title description">
+  <title id="title">KasMartē product image placeholder</title>
+  <desc id="description">A minimal illustrated T-shirt on a soft studio background.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1">
+      <stop stop-color="#eee9e1"/>
+      <stop offset="1" stop-color="#c9bdae"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <ellipse cx="450" cy="1030" rx="245" ry="40" fill="#4a4138" opacity=".22" filter="url(#shadow)"/>
+  <path d="m310 235-175 110 95 190 105-55v410c75 45 245 45 320 0V480l105 55 95-190-175-110-100 75H410z" fill="#262522"/>
+  <path d="m410 310 40 95 40-95" fill="none" stroke="#d7ccbd" stroke-width="12"/>
+  <path d="M310 580h280" stroke="#595650" stroke-width="5" opacity=".65"/>
+  <text x="450" y="700" fill="#f3eee6" font-family="Arial,sans-serif" font-size="38" letter-spacing="7" text-anchor="middle">ART OF LOVE</text>
+  <text x="450" y="1130" fill="#4d463e" font-family="Arial,sans-serif" font-size="25" letter-spacing="8" text-anchor="middle">PRODUCT IMAGE</text>
+</svg>

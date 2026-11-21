@@ -1,0 +1,9 @@
+{
+  "name": "kasmarte-vercel",
+  "version": "1.0.0",
+  "description": "KasMarte Luxury Store with AI Sizing",
+  "main": "index.html",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3"
+  }
+}

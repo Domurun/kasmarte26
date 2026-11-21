@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" role="img" aria-labelledby="title description">
+  <title id="title">KasMartē gallery image placeholder</title>
+  <desc id="description">Monochrome editorial fashion illustration placeholder.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#d1ccc5"/>
+      <stop offset="1" stop-color="#77716b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#bg)"/>
+  <path d="M100 1250c35-285 190-430 400-430s365 145 400 430" fill="#292827"/>
+  <path d="M365 410c0-125 270-125 270 0v100c0 115-60 190-135 190s-135-75-135-190z" fill="#8d7a6d"/>
+  <path d="M340 425c-30-205 300-245 330-15-90-60-195-95-330 15" fill="#302d2a"/>
+  <path d="M260 840c55-125 125-190 240-190s185 65 240 190l100 300H160z" fill="#ece7df"/>
+  <path d="M445 670h110l-20 240h-70z" fill="#645c54"/>
+  <text x="500" y="1185" fill="#f5f2ed" font-family="Arial,sans-serif" font-size="27" letter-spacing="9" text-anchor="middle">KASMARTE GALLERY</text>
+</svg>
